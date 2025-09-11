@@ -4,7 +4,7 @@ title: Why Marshawn is the GOAT
 subtitle: It's not that hard
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Football, Skittles, Hennesy]
 comments: true
 mathjax: true
 author: Hudson Lin
