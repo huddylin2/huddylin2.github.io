@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: "Spoiler: I'm a big football guy"
+subtitle: I'm a Marshawn Lynch fan
 ---
-
-My name is Hudson Lin. I am:
-
-- Cool
-- Awesome
-
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hi! My name is Hudson Lin. I am interested in learning more about basic tech even though I lack strong foundational coding skills which is why I chose to enroll in this class. I think that technology drives innovation and the future so being somewhat literate in this area is important. I hope that I can walk away from this class having learned some valuable skills (I already have by making this website on Github!)
