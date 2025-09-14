@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Marshawn is the GOAT
-subtitle: It's not that hard
+title: A little bit about Huddy
+subtitle: And also why I think Marshawn is the GOAT
 tags: [Football, Skittles, Hennesy]
 comments: true
 mathjax: true
@@ -9,7 +9,7 @@ author: Hudson Lin
 ---
 
 {: .box-success}
-When fans hear the name Marshawn Lynch, they get a sense of nostalgia, watching his Super Bowl plays and insane highlight reels. Off the field, I think that Marshawn has even more character and presence which is why I consider him to be my **GOAT**
+Read this blog post to learn more about my **name, year, major, sewing, programming, learning hops, and boring fact about me**
 
 ## Here is a secondary heading
 
