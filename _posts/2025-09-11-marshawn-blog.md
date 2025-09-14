@@ -11,9 +11,7 @@ author: Hudson Lin
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2025-09-11-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
-
-**Here is some bold text**
+When fans hear the name Marshawn Lynch, they get a sense of nostalgia, watching his Super Bowl plays and insane highlight reels. Off the field, I think that Marshawn has even more character and presence which is why I consider him to be my **GOAT**
 
 ## Here is a secondary heading
 
