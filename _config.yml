@@ -21,8 +21,11 @@ author: Huddy Lin
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/
+    - Glow: "https://glow.williams.edu/"
+    - Football Highlights: "https://www.youtube.com/watch?v=kXOZdMeSIEo"
+    - Funny Moments: "https://www.youtube.com/watch?v=rzY-NUxiSpI"
 # Author's home: "https://deanattali.com"
 
 ################
