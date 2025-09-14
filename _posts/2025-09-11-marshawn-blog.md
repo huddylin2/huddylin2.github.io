@@ -9,7 +9,7 @@ author: Hudson Lin
 ---
 
 {: .box-success}
-Read this blog post to learn more about my **name, year, major, sewing, programming, learning hops, and boring fact about me**
+Read this blog post to learn more about my **name, year, major, sewing, programming, learning hopes, and boring fact about me**
 
 ## Lets Go
 
