@@ -1,16 +1,17 @@
 ---
 layout: post
-title: A little bit about Huddy
-subtitle: And also why I think Marshawn is the GOAT
-tags: [Football, Skittles, Hennesy]
+title: Sewing Sampler
+subtitle: It was fun
+tags: [Sewing, Needles]
 comments: true
 mathjax: true
 author: Hudson Lin
 ---
 
 {: .box-success}
-Read this blog post to learn more about my **name, year, major, sewing, programming, learning hopes, and boring fact about me**
+Here are some pictures of my sewing sampler
 
-## Lets Go
-
-Hi my name is **Hudson or Huddy** and I am a
+## Front
+## Back
+## Tip
+It's helpful to drag your needle along the fabric before making your stitches to know exactly where your stitch will be
