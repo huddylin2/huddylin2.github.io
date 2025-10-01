@@ -1,23 +1,21 @@
 ---
 layout: post
-title: Menu
-subtitle: Took some time to think
-tags: [C, debugging, menu]
+title: Plushy Redux
+subtitle: Again, a thinker
+tags: [C, debugging, plushy]
 comments: true
 mathjax: true
 author: Hudson Lin
 ---
 
 {: .box-success}
-- Use int variables, numberChoice to determine if the user gets regular menu options or the secret (odd) menu. Use mealOption to determine which meal within that selected menu the user gets.
-- If the value stored in numberChoice is odd, the user gets the secret menu. If it’s not an odd number, they get the regular menu.
-- numberChoice can be any integer!
-- mealOption denotes the user’s meal choice within the regular/secret menu.
-- There should be at least 3 meal choices in the regular and secret menus (and the two menus should differ significantly!).
-- What should happen if the user chooses an invalid mealOption?
+- The program's output must depend on the value set in led1, led2, led3, which depend on the values set in btn (button) and swt (switch). You must check each of the values stored in btn and swt to determine what values to change the LEDs to.
+- Depending on the values of btn and swt, integer variables, led1, led2, and led3 will change. If the button and switch are both 'on', then all the LED values should be set to the value representing on..
+- You must check each of the values stored in led1, led2, led3 to determine what to print. If one is on & 2 off, then ‘ON’, 'OFF', 'OFF' should be printed. Text should be displayed, not numbers!
+- The LEDs may be represented by ints: generally, when we have only two possible value options (like 'off' and 'on'), we use a boolean variable, or the integers 0 and 1 to represent that.
 - In-line comments and proper indentation make code more legible. Avoid repetitive/redundant code!
 
 ## screenshot
-![menu](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/menuvscode.png)
+![redux](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/plushyvscode.png)
 ## tip
-Keep track of your brackets
+Keep track of your brackets again
