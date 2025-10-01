@@ -1,0 +1,23 @@
+---
+layout: post
+title: Menu
+subtitle: Took some time to think
+tags: [C, debugging, menu]
+comments: true
+mathjax: true
+author: Hudson Lin
+---
+
+{: .box-success}
+- Use int variables, numberChoice to determine if the user gets regular menu options or the secret (odd) menu. Use mealOption to determine which meal within that selected menu the user gets.
+- If the value stored in numberChoice is odd, the user gets the secret menu. If it’s not an odd number, they get the regular menu.
+- numberChoice can be any integer!
+- mealOption denotes the user’s meal choice within the regular/secret menu.
+- There should be at least 3 meal choices in the regular and secret menus (and the two menus should differ significantly!).
+- What should happen if the user chooses an invalid mealOption?
+- In-line comments and proper indentation make code more legible. Avoid repetitive/redundant code!
+
+## screenshot
+![menu](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/menuvscode.png)
+## tip
+Keep track of your brackets
