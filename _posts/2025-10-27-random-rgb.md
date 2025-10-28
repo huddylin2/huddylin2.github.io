@@ -1,0 +1,23 @@
+
+---
+layout: post
+title: Midterm
+subtitle: State-Based Approach
+tags: [State, LED, Firefly]
+comments: true
+mathjax: true
+author: Hudson Lin
+---
+
+{: .box-success}
+- Create flashbulb, big dipper, synchronous patterns on arduino using ide code language
+- Use state-based variable approach to code
+
+## flashbulb
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/flashbulb.jpg)
+## bigdipper
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/bigdipper.jpg)
+## synchronous
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/firefly.jpg)
+## tip
+Engaging with the material from class is very helpful in building out code!
