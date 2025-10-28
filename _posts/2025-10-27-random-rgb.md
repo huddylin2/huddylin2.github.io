@@ -13,6 +13,6 @@ author: Hudson Lin
 - on as long as button is pressed
 
 ## flashbulb
-![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/flashbulb.jpg)
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/random.jpg)
 ## tip
 Take random rgb example and combine it with button arduino code
