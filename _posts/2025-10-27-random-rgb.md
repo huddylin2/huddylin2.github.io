@@ -1,23 +1,19 @@
 
 ---
 layout: post
-title: Midterm
-subtitle: State-Based Approach
-tags: [State, LED, Firefly]
+title: Random RGB
+subtitle: Some new concepts
+tags: [Random, RGB, LED]
 comments: true
 mathjax: true
 author: Hudson Lin
 ---
 
 {: .box-success}
-- Create flashbulb, big dipper, synchronous patterns on arduino using ide code language
-- Use state-based variable approach to code
+- Press a button and light turns on but each time light turns on, different color
+- on as long as button is pressed
 
 ## flashbulb
 ![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/flashbulb.jpg)
-## bigdipper
-![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/bigdipper.jpg)
-## synchronous
-![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/firefly.jpg)
 ## tip
-Engaging with the material from class is very helpful in building out code!
+Take random rgb example and combine it with button arduino code
