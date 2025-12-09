@@ -26,7 +26,10 @@ Since I was a little boy, I have always loved cars. I was obsessed with the fast
 3 patches of fabric
 Conductive thread
 
-## 3 Tips to my Past Self
+## Revised Paper Prototype
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/PPF.jpg)
 
-## Pitch
-![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/finalp2.png)
+## 3 Tips to my Past Self
+1. Give yourself more fabric to sew with because circuit will be quite large because I will have to "circle" around the arduino to connect all my components
+
+
