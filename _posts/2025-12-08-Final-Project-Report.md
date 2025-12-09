@@ -26,5 +26,7 @@ Since I was a little boy, I have always loved cars. I was obsessed with the fast
 3 patches of fabric
 Conductive thread
 
+## 3 Tips to my Past Self
+
 ## Pitch
 ![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/finalp2.png)
