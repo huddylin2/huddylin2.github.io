@@ -31,5 +31,7 @@ Conductive thread
 
 ## 3 Tips to my Past Self
 1. Give yourself more fabric to sew with because circuit will be quite large because I will have to "circle" around the arduino to connect all my components
+2. Think about how many ports you will be using for your project. If you have too many componenets operating individually, then the arduino will not have the capacity
+3. Use a thicker singular piece of fabric to ensure traces don't cross causing short-circuits
 
 
