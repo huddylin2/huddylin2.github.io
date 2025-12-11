@@ -29,9 +29,22 @@ Conductive thread
 ## Revised Paper Prototype
 ![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/PPF.jpg)
 
+## Alligator Prototype
+My prototype used 10 connections and would require 17 alligator clips, so I was unable to make an alligator prototype. In retrospect, I should have asked Professor Howley for more alligator clips to create an alligator prototype
+
+## Final Circuit Front and Back
+While I could not get my final circuit to work, I have attatched photos of the front and back of my circuit
+
+Front
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/ff.jpeg)
+Back
+![vscode](https://raw.githubusercontent.com/huddylin2/huddylin2.github.io/master/assets/img/bf.jpeg)
+
 ## 3 Tips to my Past Self
 1. Give yourself more fabric to sew with because circuit will be quite large because I will have to "circle" around the arduino to connect all my components
 2. Think about how many ports you will be using for your project. If you have too many componenets operating individually, then the arduino will not have the capacity
 3. Use a thicker singular piece of fabric to ensure traces don't cross causing short-circuits
 
+## Citations of Resources Used
+For this project, I used class materials from code examples and lectures on the course glow page.
 
